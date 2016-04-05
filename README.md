@@ -5,7 +5,7 @@ Adds M117-commands (print message on display) for every 0.1% progress done while
 
 ## Compiling
 You need a working java8 and maven-setup on your machine.
-- Check out sources
+- Checkout sources
 - Execute 'mvn clean package' in checkout-root
 - See ./target/gcodeprogress-0.2-jar-with-dependencies.jar
 
