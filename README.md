@@ -10,6 +10,8 @@ You need a working java8 and maven-setup on your machine.
 - See ./target/gcodeprogress-0.2-jar-with-dependencies.jar
 
 # Download
+Use a precompiled Version from
+https://github.com/jOphey/gcodeProgress/raw/master/bin/gcodeprogress-0.2-jar-with-dependencies.jar
 
 # Usage
 You will neet a working java8-setup on your machine
