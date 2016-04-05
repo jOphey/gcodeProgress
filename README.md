@@ -27,7 +27,7 @@ Open a shell (cmd.exe on Windows) and use command `java -version` to ensure java
 Now outputfile.gcode will contain the progress-messages wich will be displayed on your printers LCD during a print.
 
 ### Repetier-Host
-- Goto: "Config" -> "Printer Settings"
+- Goto "Config" -> "Printer Settings"
 - Choose Tab "Advanced"
 - Set "Post Slice Filter"-Parameter to:
 
