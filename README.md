@@ -1,5 +1,5 @@
 # gcodeProgress
-Simple tool to process a reprap-gcode-files
+Simple tool to process a reprap-gcode-file
 
 Adds M117-commands (print message on display) for every 0.1% progress done while printing the file.
 
